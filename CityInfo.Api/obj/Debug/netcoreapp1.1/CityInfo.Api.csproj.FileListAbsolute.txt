@@ -1,9 +1,0 @@
-c:\users\alexa_000\documents\visual studio 2017\Projects2\CityInfo\CityInfo.Api\bin\Debug\netcoreapp1.1\CityInfo.Api.deps.json
-c:\users\alexa_000\documents\visual studio 2017\Projects2\CityInfo\CityInfo.Api\bin\Debug\netcoreapp1.1\CityInfo.Api.runtimeconfig.json
-c:\users\alexa_000\documents\visual studio 2017\Projects2\CityInfo\CityInfo.Api\bin\Debug\netcoreapp1.1\CityInfo.Api.runtimeconfig.dev.json
-c:\users\alexa_000\documents\visual studio 2017\Projects2\CityInfo\CityInfo.Api\bin\Debug\netcoreapp1.1\CityInfo.Api.dll
-c:\users\alexa_000\documents\visual studio 2017\Projects2\CityInfo\CityInfo.Api\obj\Debug\netcoreapp1.1\CityInfo.Api.csprojResolveAssemblyReference.cache
-c:\users\alexa_000\documents\visual studio 2017\Projects2\CityInfo\CityInfo.Api\obj\Debug\netcoreapp1.1\CityInfo.Api.AssemblyInfo.cs
-c:\users\alexa_000\documents\visual studio 2017\Projects2\CityInfo\CityInfo.Api\bin\Debug\netcoreapp1.1\CityInfo.Api.pdb
-c:\users\alexa_000\documents\visual studio 2017\Projects2\CityInfo\CityInfo.Api\obj\Debug\netcoreapp1.1\CityInfo.Api.dll
-c:\users\alexa_000\documents\visual studio 2017\Projects2\CityInfo\CityInfo.Api\obj\Debug\netcoreapp1.1\CityInfo.Api.pdb

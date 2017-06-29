@@ -1,0 +1,9 @@
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\3-asp-dotnet-core-api-building-first-m3-exercise-files\end\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.deps.json
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\3-asp-dotnet-core-api-building-first-m3-exercise-files\end\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.runtimeconfig.json
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\3-asp-dotnet-core-api-building-first-m3-exercise-files\end\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.runtimeconfig.dev.json
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\3-asp-dotnet-core-api-building-first-m3-exercise-files\end\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.dll
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\3-asp-dotnet-core-api-building-first-m3-exercise-files\end\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.pdb
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\3-asp-dotnet-core-api-building-first-m3-exercise-files\end\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.csprojResolveAssemblyReference.cache
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\3-asp-dotnet-core-api-building-first-m3-exercise-files\end\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.AssemblyInfo.cs
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\3-asp-dotnet-core-api-building-first-m3-exercise-files\end\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.dll
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\3-asp-dotnet-core-api-building-first-m3-exercise-files\end\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.pdb
