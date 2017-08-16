@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAHTy7wmYwmkOy8DGRPjDdegAAAAACAAAAAAAQZgAAAAEAACAAAADHuZMInum06fDT9xK2ndnWlwvRYGpXNFPu+pCFgxaFEAAAAAAOgAAAAAIAACAAAACr3prpuLhn+y+maMIxrX83nnaTwINN+MTcpGyvIVD1tIAAAAAJLKboVGHKF0mU+7QXALyecy3GOPQ3R13U66zyVkdKkfvMspBhFVyphlGBwxnczwT/zN8NBR7UIGS98sGi90uvuURv9N/oqCHEmKuF5Qaesi4wv1ahJ6syQpVb5CQ94Eu5REgf67IGfiX5UaeQgev/AEc9RuuRu/fry3K6G227i0AAAABwJpoaC/qHegkoP5HQtaZWRYDR70BzWz/6rrPa9+B4HLfXtWzx49lBx5P35IIlnoSqJojJj54lA+QaGTme5M7J</EncryptedPassword>
+    <_NewBackgroundProfile>False</_NewBackgroundProfile>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="cityInfoDBConnectionString">
+      <Value>Data Source=tcp:alexanderdbserver.database.windows.net,1433;Initial Catalog=CityInfoApi20170801083902_db;User Id=ClarkNova@alexanderdbserver;Password=881225_aw</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

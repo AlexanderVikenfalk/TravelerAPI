@@ -1,0 +1,9 @@
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\CityInfo\CityInfo.Api\bin\Release\netcoreapp1.1\CityInfo.Api.deps.json
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\CityInfo\CityInfo.Api\bin\Release\netcoreapp1.1\CityInfo.Api.runtimeconfig.json
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\CityInfo\CityInfo.Api\bin\Release\netcoreapp1.1\CityInfo.Api.runtimeconfig.dev.json
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\CityInfo\CityInfo.Api\bin\Release\netcoreapp1.1\CityInfo.Api.dll
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\CityInfo\CityInfo.Api\bin\Release\netcoreapp1.1\CityInfo.Api.pdb
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\CityInfo\CityInfo.Api\obj\Release\netcoreapp1.1\CityInfo.Api.csprojResolveAssemblyReference.cache
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\CityInfo\CityInfo.Api\obj\Release\netcoreapp1.1\CityInfo.Api.AssemblyInfo.cs
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\CityInfo\CityInfo.Api\obj\Release\netcoreapp1.1\CityInfo.Api.dll
+C:\Users\alexa_000\Documents\Visual Studio 2017\Projects2\CityInfo\CityInfo.Api\obj\Release\netcoreapp1.1\CityInfo.Api.pdb
